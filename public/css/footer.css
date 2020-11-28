@@ -1,0 +1,19 @@
+
+footer{
+    background-color: gray;
+    padding-bottom: -10%;
+}
+
+footer img{
+    height: 120px;
+    margin-top: 3%;
+}
+
+footer a{
+    color: aquamarine;
+}
+
+footer h5{
+    color: white;
+    padding-bottom: 5%;
+}

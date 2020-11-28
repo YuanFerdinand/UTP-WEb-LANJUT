@@ -1,0 +1,28 @@
+
+.media h5{
+    color: white;
+}
+
+.media h6{
+    color: white;
+}
+
+.media h7{
+    color: white;
+}
+
+.media{
+    padding-top: 0%;
+    background-size: cover;
+    background-color: #3287be;
+}
+
+section .jumbotron{
+    margin-bottom: -3.78%;
+    background-size: cover;
+    background-image: url(https://wallpapercave.com/wp/wp7487214.jpg);
+}
+
+section .media{
+    margin-top: -2%;
+}
